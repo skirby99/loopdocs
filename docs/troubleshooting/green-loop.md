@@ -16,7 +16,7 @@
         
     
     </ul>
-</div></div>
+</div>
             <div class="col-md-9" role="main">
 
 <h1 id="turning-your-grey-loop-to-green">Turning Your Grey Loop to Green<a class="headerlink" href="#turning-your-grey-loop-to-green" title="Permanent link">⌁</a></h1>

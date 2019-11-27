@@ -1,4 +1,6 @@
-        <div class="container">
+<!DOCTYPE html>
+<html lang="en">
+<div class="container">
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
@@ -53,4 +55,4 @@
 </ul></div>
         </div>
 
-        
+</html>        

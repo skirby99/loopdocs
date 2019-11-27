@@ -5,7 +5,7 @@
         
 <div class="container"></div>
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul><ul class="nav bs-sidenav">
+    <ul><ul class="nav bs-sidenav"></ul>
     
         <li class="main active"><a href="#turning-your-grey-loop-to-green">Turning Your Grey Loop to Green</a></li>
         
@@ -17,7 +17,7 @@
         
             <li><a href="#loop-settings">Loop Settings</a></li>
         
-    </ul>
+    
     
 </div>
             <div class="col-md-9" role="main">
